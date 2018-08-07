@@ -35,4 +35,8 @@ vignettes/*.pdf
 # Shiny token, see https://shiny.rstudio.com/articles/shinyapps.html
 rsconnect/
 
+# Mac file system
 **/.DS_Store
+
+# nohup
+**/nohup.out
