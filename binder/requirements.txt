@@ -1,1 +1,4 @@
 nbrmd
+numpy
+matplotlib
+seaborn
